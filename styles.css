@@ -48,7 +48,7 @@ body{
 }
 .card-container{
   background-color: var(--card-bg-color);
-  padding: var(--spacing-xl);
+  padding: var(--spacing-xxl);
   border-radius: 1.25em;
   border:  .12em solid;
   box-shadow: .5em .5em 0em 1px var(--shadow-color) ;
