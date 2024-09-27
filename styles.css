@@ -59,7 +59,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   min-width: 18em;
-  height: 12em;
+  height: 12.5em;
   margin: auto;
   border-radius:.5em;
   margin-bottom: var(--spacing-xxl);
